@@ -1,6 +1,6 @@
 site_name: Argo-CD Autopilot
 site_url: https://argocd-autopilot.readthedocs.io
-repo_url: https://github.com/argoproj-labs/argocd-autopilot
+repo_url: https://github.com/mohamdy21/argocd-autopilot
 edit_uri: edit/main/docs/
 strict: true
 theme:
@@ -36,6 +36,6 @@ nav:
   - Development: Development.md
   - Roadmap: Roadmap.md
   - Blogs: Blogs.md
-  - Releases ⧉: https://github.com/argoproj-labs/argocd-autopilot/releases
-  - Issues ⧉: https://github.com/argoproj-labs/argocd-autopilot/issues
+  - Releases ⧉: https://github.com/mohamdy21/argocd-autopilot/releases
+  - Issues ⧉: https://github.com/mohamdy21/argocd-autopilot/issues
   - Slack ⧉: https://cloud-native.slack.com/archives/C0207C47D0X
