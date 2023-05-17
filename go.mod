@@ -14,7 +14,7 @@ require (
 	github.com/google/go-github/v43 v43.0.0
 	github.com/ktrysmt/go-bitbucket v0.9.49
 	github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b5
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.1
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.1
